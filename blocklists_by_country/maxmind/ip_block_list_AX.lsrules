@@ -1,1 +1,1 @@
-{"description":"Block \"Åland Islands\" IPs (MaxMind GeoLite2)","name":"Blocks requests to \"Åland Islands\" IPs (source: MaxMind GeoLite2)","denied-remote-addresses":["217.29.224.0/20"]}
+{"description":"Block \"Åland Islands\" IPs (MaxMind GeoLite2)","name":"Blocks requests to \"Åland Islands\" IPs (source: MaxMind GeoLite2)","denied-remote-addresses":["91.210.154.0/24","185.84.30.0/23","217.29.224.0/20"]}

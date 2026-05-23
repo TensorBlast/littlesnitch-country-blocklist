@@ -1,0 +1,1 @@
+{"description":"Block \"American Samoa\" IPs (MaxMind GeoLite2)","name":"Blocks requests to \"American Samoa\" IPs (source: MaxMind GeoLite2)","denied-remote-addresses":["103.117.168.0/22","202.70.112.0/20"]}
